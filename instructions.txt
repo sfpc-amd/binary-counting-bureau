@@ -20,9 +20,6 @@ Now direct your workers arrange the chairs in a straight line and label in the f
 
 Please direct your workers to form a line next to the leftmost chair. (Directions continued on the next page)
 
-
-
-
 It is your job to determine the proper shift length based on your own judgement. Keep in mind that *your payment is determined by the number reached at the end of the shift*, but if the shift is too long the workers may revolt and you will not be paid. 
 
 When the shift begins, you will start by announcing the number "1". As soon as the workers form this number, you will increase the number by one and wait for them to form the next number. Continue this for the duration of the shift. Feel free to work cooperatively with your team!
