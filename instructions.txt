@@ -1,39 +1,26 @@
 A Memo from the Director of the Binary Counting Bureau (BCB)
 September 16, 2015
 
-Hello, and congratulations on your appointment as BCB Comptroller! There are likely informants present in your working group, and failure to comply with these instructions may result in suspension of your privileges. 
+Hello, and congratulations on your appointment as Comptroller at the Binary Counting Bereau, where everyone is the most significant bit! Your main responsibility as Comptroller is to supervise one shift with your working group and ensure the highest level of accuracy and efficiency. Each shift lasts ________. Please read these directions carefully before beginning.
 
-First of all, your are required to gather:
- - 1 Comptroller (you)
- - 4-8 Chairs
+You are first required to provide or attain the following resources:
+ - ____ Chairs
  - At least as many workers as you have chairs
+ - A roll of tape
  - A timer
- - A bank containing the working group's payroll, with at least twice as many payments as workers
 
-Read the following text to your working group:
+Now direct your workers arrange the chairs in a straight line and label in the following formation, beginning at the rightmost chair (if you have fewer chairs than are listed below, simply start at the right and stop once you reach your last chair)
 
-"Welcome workers to the Binary Counting Bureau! I am your Comptroller. Please listen closely to my instructions"
+ +-----+ +----+ +----+ +----+ +---+ +---+ +---+ +---+
+ | 128 | | 64 | | 32 | | 16 | | 8 | | 4 | | 2 | | 1 |  
+ +-----+ +----+ +----+ +----+ +---+ +---+ +---+ +---+
 
-Now direct your workers arrange the chairs in a straight line and label in the following formation, beginning at the rightmost chair (if you have fewer chairs than are listed below, simply start at the right and stop once you reach your last chair):
+Now direct your workers to form a line next to the rightmost chair. You may then instruct the workers as follows:
 
-128    64    32    16    8    4    2    1  
-
-Please direct your workers to form a line next to the leftmost chair. (Directions continued on the next page)
-
-It is your job to determine the proper shift length based on your own judgement. Keep in mind that *your payment is determined by the number reached at the end of the shift*, but if the shift is too long the workers may revolt and you will not be paid. 
+"You will notice the chairs in front of me are labelled with numbers. Your job as workers is to sit down in the seats such that the occupied seats add up to the numbers that I count off to you. You are to occupy seats in order -- according to your spot in line -- and when you vacate your seat you must move to the end of the line."
 
 When the shift begins, you will start by announcing the number "1". As soon as the workers form this number, you will increase the number by one and wait for them to form the next number. Continue this for the duration of the shift. Feel free to work cooperatively with your team!
 
-Now please read aloud the following message:
+You may now set your shift timer to ________ and begin the shift. 
 
-"You will notice the chairs in front of me are labelled with numbers. Your job as workers is to occupy the seats such that the occupied seats add up to the numbers that I count off to you. You are to occupy seats in order -- according to your spot in line -- and when you vacate your seat you must move to the end of the line. Payment will be issued at the end of the shift."
-
-You may now start your timer and begin the shift. 
-
----
-
-Once the shift is over, note the last number formed. Now, read the following text:
-
-"Thank you for your service with the Binary Counting Bureau. Payment will now be issued."
-
-Issue a payment to yourself equal to the last number counted, and then issue the rest to be divided equally among the workers. Thank you for your service with the Binary Counting Bureau.
+When the shift is over, please thank your workers and fill out the attached timesheet and indicate the highest number reached. If time permits, you are encouraged to appoint a new Comptroller for the next shift.
