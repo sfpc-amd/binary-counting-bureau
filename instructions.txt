@@ -1,12 +1,13 @@
-A Memo from the Director of the Binary Counting Bureau (BCB)
-September 16, 2015
+From the desk of the Binary Counting Bureau's Comptroller General.
 
-Hello, and congratulations on your appointment as Comptroller at the Binary Counting Bereau, where everyone is the most significant bit! Your main responsibility as Comptroller is to supervise one shift with your working group and ensure the highest level of accuracy and efficiency. Each shift lasts ________. Please read these directions carefully before beginning.
+Hello, and congratulations on your appointment as Comptroller at the Binary Counting Bereau, where everyone is the most significant bit!
+
+Your main responsibility as Comptroller is to supervise one shift with your working group and ensure the highest level of accuracy and efficiency. Each shift lasts ________. Please read these directions carefully before beginning.
 
 You are first required to provide or attain the following resources:
- - ____ Chairs
+ - ____ chairs
  - At least as many workers as you have chairs
- - A roll of tape
+ - A roll of tape and a scissors
  - A timer
 
 Now direct your workers arrange the chairs in a straight line and label in the following formation, beginning at the rightmost chair (if you have fewer chairs than are listed below, simply start at the right and stop once you reach your last chair)
