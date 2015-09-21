@@ -3,7 +3,7 @@ Binary Counting Bureau (BCB)
 
 ![Binary Counting Bureau illustration](img/illustration.jpg)
 
-A bureacratic game for learning to count in binary.
+A bureacratic game for learning to count in binary. [More info here](http://sfpc-amd.tumblr.com/post/129578189474/binary-counting-bureau)!
 
 Meta-instructions
 -----------------
